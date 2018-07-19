@@ -1,364 +1,930 @@
-NAME: Pan y Vino
-ADDRESS: 
-704 E Balboa Blvd
-Newport Beach, CA 92661
-PHONE (949) 873-5870
+NAME: Saigon Fish Grill
+ADDRESS: 10131 Westminster Ave
+Garden Grove, CA
+PHONE: (714) 989-9911
 
 NAME: Mama D’s Italian Kitchen
-ADDRESS: 
-3012 Newport Blvd
-Newport Beach, CA 92663
-PHONE (949) 675-6262
-
-NAME: Mastro’s Ocean Club
-ADDRESS: 
-8112 E Coast Hwy
-Newport Beach, CA 92657
-PHONE (949) 376-6990
-
-NAME: Sol Grill
-ADDRESS: 
-110 McFadden Pl
-Newport Beach, CA 92663
-PHONE (949) 723-4105
-
-NAME: Bosscat Kitchen and Libations
-ADDRESS: 
-4647 MacArthur Blvd
-Newport Beach, CA 92660
-PHONE (949) 333-0917
+ADDRESS: 3012 Newport Blvd
+Newport Beach, CA
+PHONE: (949) 675-6262
 
 NAME: SOL Mexican Cocina
-ADDRESS: 
-251 E Coast Hwy
-Newport Beach, CA 92660
-PHONE (949) 675-9800
+ADDRESS: 251 E Coast Hwy
+Newport Beach, CA
+PHONE: (949) 675-9800
+
+NAME: Mastro’s Ocean Club
+ADDRESS: 8112 E Coast Hwy
+Newport Beach, CA
+PHONE: (949) 376-6990
+
+NAME: Sol Grill
+ADDRESS: 110 McFadden Pl
+Newport Beach, CA
+PHONE: (949) 723-4105
 
 NAME: Hook & Anchor
-ADDRESS: 
-3305 Newport Blvd
-Newport Beach, CA 92663
-PHONE (949) 423-7169
+ADDRESS: 3305 Newport Blvd
+Newport Beach, CA
+PHONE: (949) 423-7169
+
+NAME: Bosscat Kitchen and Libations
+ADDRESS: 4647 MacArthur Blvd
+Newport Beach, CA
+PHONE: (949) 333-0917
+
+NAME: Eddie V’s Prime Seafood
+ADDRESS: 1370 Bison Ave
+Newport Beach, CA
+PHONE: (949) 720-9925
 
 NAME: True Food Kitchen
 ADDRESS: 
-PHONE (949) 644-2400
+Newport Beach, CA
+PHONE: (949) 644-2400
 
-NAME: Eddie V’s Prime Seafood
-ADDRESS: 
-1370 Bison Ave
-Newport Beach, CA 92660
-PHONE (949) 720-9925
+NAME: Red O
+ADDRESS: 143 Newport Center Dr
+Newport Beach, CA
+PHONE: (949) 718-0300
 
-NAME: Saigon Beach Restaurant
-ADDRESS: 
-2233 W Balboa Blvd
-Newport Beach, CA 92663
-PHONE (949) 612-8067
+NAME: Fig & Olive
+ADDRESS: 151 Newport Center Dr
+Newport Beach, CA
+PHONE: (949) 877-3005
 
 NAME: R+D Kitchen
-ADDRESS: 
-555 Newport Ctr Dr
-Newport Beach, CA 92660
-PHONE (949) 219-0555
+ADDRESS: 555 Newport Ctr Dr
+Newport Beach, CA
+PHONE: (949) 219-0555
 
-NAME: Red O
-ADDRESS: 
-143 Newport Center Dr
-Newport Beach, CA 92660
-PHONE (949) 718-0300
-
-NAME: The Dock
-ADDRESS: 
-2816 Lafayette Rd
-Newport Beach, CA 92663
-PHONE (949) 673-3625
+NAME: Saigon Beach Restaurant
+ADDRESS: 2233 W Balboa Blvd
+Newport Beach, CA
+PHONE: (949) 612-8067
 
 NAME: CUCINA enoteca Newport Beach
-ADDRESS: 
-951 Newport Center Dr
-Newport Beach, CA 92660
-PHONE (949) 706-1416
-
-NAME: A Restaurant
-ADDRESS: 
-3334 W Coast Hwy
-Newport Beach, CA 92663
-PHONE (949) 650-6505
+ADDRESS: 951 Newport Center Dr
+Newport Beach, CA
+PHONE: (949) 706-1416
 
 NAME: Farmhouse At Roger’s Gardens
-ADDRESS: 
-2301 San Joaquin Hills Rd
-Newport Beach, CA 92625
-PHONE (949) 640-1415
+ADDRESS: 2301 San Joaquin Hills Rd
+Newport Beach, CA
+PHONE: (949) 640-1415
 
-NAME: Bear Flag Fish
-ADDRESS: 
-7972 Pacific Coast Hwy
-Newport Beach, CA 92657
-PHONE (949) 715-8899
-
-NAME: Rockin’ Baja Lobster Coastal Cantina
-ADDRESS: 
-2104 W Oceanfront
-Newport Beach, CA 92663
-PHONE (949) 723-0606
-
-NAME: Harborside Restaurant and Grand Ballroom
-ADDRESS: 
-400 Main St
-Newport Beach, CA 92661
-PHONE (949) 673-4633
-
-NAME: Fig & Olive
-ADDRESS: 
-151 Newport Center Dr
-Newport Beach, CA 92660
-PHONE (949) 877-3005
-
-NAME: Bluewater Grill
-ADDRESS: 
-630 Lido Park Dr
-Newport Beach, CA 92663
-PHONE (949) 675-3474
-
-NAME: The Lighthouse Bayview Café
-ADDRESS: 
-1600 W Balboa Blvd
-Newport Beach, CA 92663
-PHONE (949) 933-1001
-
-NAME: Nick’s Laguna Beach
-ADDRESS: 
-440 S Coast Hwy
-Laguna Beach, CA 92651
-PHONE (949) 376-8595
-
-NAME: Bayside Restaurant
-ADDRESS: 
-900 Bayside Dr
-Newport Beach, CA 92660
-PHONE (949) 721-1222
-
-NAME: Beach Barrel
-ADDRESS: 
-209 1/2 Palm St
-Newport Beach, CA 92661
-PHONE (949) 427-3663
+NAME: A Restaurant
+ADDRESS: 3334 W Coast Hwy
+Newport Beach, CA
+PHONE: (949) 650-6505
 
 NAME: Moulin
-ADDRESS: 
-1000 Bristol St N
-Newport Beach, CA 92660
-PHONE (949) 474-0920
+ADDRESS: 1000 Bristol St N
+Newport Beach, CA
+PHONE: (949) 474-0920
 
-NAME: Waterline
-ADDRESS: 
-PHONE (949) 630-4390
-
-NAME: The Cannery Restaurant
-ADDRESS: 
-3010 Lafayette Rd
-Newport Beach, CA 92663
-PHONE (949) 566-0060
-
-NAME: The Alley
-ADDRESS: 
-4501 W Coast Hwy
-Newport Beach, CA 92663
-PHONE (949) 646-9126
-
-NAME: Modo Mio rustic italian kitchen
-ADDRESS: 
-7946 E Coast Hwy
-Newport Beach, CA 92657
-PHONE (949) 497-9770
-
-NAME: Oak Grill
-ADDRESS: 
-690 Newport Center Dr
-Newport Beach, CA 92660
-PHONE (949) 760-4920
-
-NAME: Pan y Vino
-ADDRESS: 
-704 E Balboa Blvd
-Newport Beach, CA 92661
-PHONE (949) 873-5870
-
-NAME: Red O
-ADDRESS: 
-143 Newport Center Dr
-Newport Beach, CA 92660
-PHONE (949) 718-0300
+NAME: Nick’s Laguna Beach
+ADDRESS: 440 S Coast Hwy
+Laguna Beach, CA
+PHONE: (949) 376-8595
 
 NAME: The Dock
-ADDRESS: 
-2816 Lafayette Rd
-Newport Beach, CA 92663
-PHONE (949) 673-3625
-
-NAME: CUCINA enoteca Newport Beach
-ADDRESS: 
-951 Newport Center Dr
-Newport Beach, CA 92660
-PHONE (949) 706-1416
-
-NAME: A Restaurant
-ADDRESS: 
-3334 W Coast Hwy
-Newport Beach, CA 92663
-PHONE (949) 650-6505
-
-NAME: Farmhouse At Roger’s Gardens
-ADDRESS: 
-2301 San Joaquin Hills Rd
-Newport Beach, CA 92625
-PHONE (949) 640-1415
-
-NAME: Bear Flag Fish
-ADDRESS: 
-7972 Pacific Coast Hwy
-Newport Beach, CA 92657
-PHONE (949) 715-8899
-
-NAME: Rockin’ Baja Lobster Coastal Cantina
-ADDRESS: 
-2104 W Oceanfront
-Newport Beach, CA 92663
-PHONE (949) 723-0606
-
-NAME: Harborside Restaurant and Grand Ballroom
-ADDRESS: 
-400 Main St
-Newport Beach, CA 92661
-PHONE (949) 673-4633
-
-NAME: Fig & Olive
-ADDRESS: 
-151 Newport Center Dr
-Newport Beach, CA 92660
-PHONE (949) 877-3005
-
-NAME: Bluewater Grill
-ADDRESS: 
-630 Lido Park Dr
-Newport Beach, CA 92663
-PHONE (949) 675-3474
-
-NAME: The Lighthouse Bayview Café
-ADDRESS: 
-1600 W Balboa Blvd
-Newport Beach, CA 92663
-PHONE (949) 933-1001
-
-NAME: Nick’s Laguna Beach
-ADDRESS: 
-440 S Coast Hwy
-Laguna Beach, CA 92651
-PHONE (949) 376-8595
-
-NAME: Bayside Restaurant
-ADDRESS: 
-900 Bayside Dr
-Newport Beach, CA 92660
-PHONE (949) 721-1222
+ADDRESS: 2816 Lafayette Rd
+Newport Beach, CA
+PHONE: (949) 673-3625
 
 NAME: Beach Barrel
-ADDRESS: 
-209 1/2 Palm St
-Newport Beach, CA 92661
-PHONE (949) 427-3663
+ADDRESS: 209 1/2 Palm St
+Newport Beach, CA
+PHONE: (949) 427-3663
 
-NAME: Moulin
-ADDRESS: 
-1000 Bristol St N
-Newport Beach, CA 92660
-PHONE (949) 474-0920
+NAME: The Lighthouse Bayview Café
+ADDRESS: 1600 W Balboa Blvd
+Newport Beach, CA
+PHONE: (949) 933-1001
 
-NAME: Waterline
-ADDRESS: 
-PHONE (949) 630-4390
+NAME: On The Rocks
+ADDRESS: 2332 West Coast Hwy
+Newport Beach, CA
+PHONE: (949) 673-8444
 
-NAME: The Cannery Restaurant
-ADDRESS: 
-3010 Lafayette Rd
-Newport Beach, CA 92663
-PHONE (949) 566-0060
-
-NAME: The Alley
-ADDRESS: 
-4501 W Coast Hwy
-Newport Beach, CA 92663
-PHONE (949) 646-9126
-
-NAME: Modo Mio rustic italian kitchen
-ADDRESS: 
-7946 E Coast Hwy
-Newport Beach, CA 92657
-PHONE (949) 497-9770
-
-NAME: Oak Grill
-ADDRESS: 
-690 Newport Center Dr
-Newport Beach, CA 92660
-PHONE (949) 760-4920
-
-NAME: Canaletto Ristorante Veneto
-ADDRESS: 
-545 Newport Center Drive
-Newport Beach, CA 92660
-PHONE (949) 640-0900
-
-NAME: Crocker’s Abundant Table
-ADDRESS: 
-211 Marine Ave
-Newport Beach, CA 92662
-PHONE 
+NAME: Rockin’ Baja Lobster Coastal Cantina
+ADDRESS: 2104 W Oceanfront
+Newport Beach, CA
+PHONE: (949) 723-0606
 
 NAME: Flemings Prime Steakhouse & Wine Bar- Newport Beach
+ADDRESS: 455 Newport Center Dr
+Newport Beach, CA
+PHONE: (949) 720-9633
+
+NAME: Harborside Restaurant and Grand Ballroom
+ADDRESS: 400 Main St
+Newport Beach, CA
+PHONE: (949) 673-4633
+
+NAME: Bluewater Grill
+ADDRESS: 630 Lido Park Dr
+Newport Beach, CA
+PHONE: (949) 675-3474
+
+NAME: The Winery Restaurant & Wine Bar
+ADDRESS: 3131 W Coast Hwy
+Newport Beach, CA
+PHONE: (949) 999-6622
+
+NAME: Pan y Vino
+ADDRESS: 704 E Balboa Blvd
+Newport Beach, CA
+PHONE: (949) 873-5870
+
+NAME: Cafe Gratitude - Newport Beach
+ADDRESS: 1617 Westcliff Dr
+Newport Beach, CA
+PHONE: (949) 386-8100
+
+NAME: The Alley
+ADDRESS: 4501 W Coast Hwy
+Newport Beach, CA
+PHONE: (949) 646-9126
+
+NAME: Waterline
 ADDRESS: 
-455 Newport Center Dr
-Newport Beach, CA 92660
-PHONE (949) 720-9633
+Newport Beach, CA
+PHONE: (949) 630-4390
+
+NAME: Saigon Fish Grill
+ADDRESS: 10131 Westminster Ave
+Garden Grove, CA
+PHONE: (714) 989-9911
+
+NAME: R+D Kitchen
+ADDRESS: 555 Newport Ctr Dr
+Newport Beach, CA
+PHONE: (949) 219-0555
+
+NAME: Saigon Beach Restaurant
+ADDRESS: 2233 W Balboa Blvd
+Newport Beach, CA
+PHONE: (949) 612-8067
+
+NAME: CUCINA enoteca Newport Beach
+ADDRESS: 951 Newport Center Dr
+Newport Beach, CA
+PHONE: (949) 706-1416
+
+NAME: Farmhouse At Roger’s Gardens
+ADDRESS: 2301 San Joaquin Hills Rd
+Newport Beach, CA
+PHONE: (949) 640-1415
+
+NAME: A Restaurant
+ADDRESS: 3334 W Coast Hwy
+Newport Beach, CA
+PHONE: (949) 650-6505
+
+NAME: Moulin
+ADDRESS: 1000 Bristol St N
+Newport Beach, CA
+PHONE: (949) 474-0920
+
+NAME: Nick’s Laguna Beach
+ADDRESS: 440 S Coast Hwy
+Laguna Beach, CA
+PHONE: (949) 376-8595
+
+NAME: The Dock
+ADDRESS: 2816 Lafayette Rd
+Newport Beach, CA
+PHONE: (949) 673-3625
+
+NAME: Beach Barrel
+ADDRESS: 209 1/2 Palm St
+Newport Beach, CA
+PHONE: (949) 427-3663
+
+NAME: The Lighthouse Bayview Café
+ADDRESS: 1600 W Balboa Blvd
+Newport Beach, CA
+PHONE: (949) 933-1001
+
+NAME: On The Rocks
+ADDRESS: 2332 West Coast Hwy
+Newport Beach, CA
+PHONE: (949) 673-8444
+
+NAME: Rockin’ Baja Lobster Coastal Cantina
+ADDRESS: 2104 W Oceanfront
+Newport Beach, CA
+PHONE: (949) 723-0606
+
+NAME: Flemings Prime Steakhouse & Wine Bar- Newport Beach
+ADDRESS: 455 Newport Center Dr
+Newport Beach, CA
+PHONE: (949) 720-9633
+
+NAME: Harborside Restaurant and Grand Ballroom
+ADDRESS: 400 Main St
+Newport Beach, CA
+PHONE: (949) 673-4633
+
+NAME: Bluewater Grill
+ADDRESS: 630 Lido Park Dr
+Newport Beach, CA
+PHONE: (949) 675-3474
+
+NAME: The Winery Restaurant & Wine Bar
+ADDRESS: 3131 W Coast Hwy
+Newport Beach, CA
+PHONE: (949) 999-6622
+
+NAME: Pan y Vino
+ADDRESS: 704 E Balboa Blvd
+Newport Beach, CA
+PHONE: (949) 873-5870
+
+NAME: Cafe Gratitude - Newport Beach
+ADDRESS: 1617 Westcliff Dr
+Newport Beach, CA
+PHONE: (949) 386-8100
+
+NAME: The Alley
+ADDRESS: 4501 W Coast Hwy
+Newport Beach, CA
+PHONE: (949) 646-9126
+
+NAME: Waterline
+ADDRESS: 
+Newport Beach, CA
+PHONE: (949) 630-4390
+
+NAME: Great Maple
+ADDRESS: 1133 Newport Ctr Dr
+Newport Beach, CA
+PHONE: (949) 706-8282
+
+NAME: Bear Flag Fish
+ADDRESS: 7972 Pacific Coast Hwy
+Newport Beach, CA
+PHONE: (949) 715-8899
+
+NAME: Hopdoddy Burger Bar
+ADDRESS: 401 Newport Center Dr
+Newport Beach, CA
+PHONE: (949) 640-2337
+
+NAME: The Cannery Restaurant
+ADDRESS: 3010 Lafayette Rd
+Newport Beach, CA
+PHONE: (949) 566-0060
+
+NAME: Crocker’s Abundant Table
+ADDRESS: 211 Marine Ave
+Newport Beach, CA
+PHONE: None
+
+NAME: Modo Mio rustic italian kitchen
+ADDRESS: 7946 E Coast Hwy
+Newport Beach, CA
+PHONE: (949) 497-9770
+
+NAME: 3-Thirty-3 Waterfront
+ADDRESS: 333 Bayside Dr
+Newport Beach, CA
+PHONE: (949) 673-8464
 
 NAME: Da Hawaiian Kitchen Too
-ADDRESS: 
-2201 W Balboa Blvd
-Newport Beach, CA 92663
-PHONE (949) 612-8300
+ADDRESS: 2201 W Balboa Blvd
+Newport Beach, CA
+PHONE: (949) 612-8300
 
-NAME: Slapfish
-ADDRESS: 
-2727 Newport Blvd
-Newport Beach, CA 92663
-PHONE (949) 723-0034
+NAME: Bayside Restaurant
+ADDRESS: 900 Bayside Dr
+Newport Beach, CA
+PHONE: (949) 721-1222
 
-NAME: Gulfstream
+NAME: Wild Taco
+ADDRESS: 407 31st St
+Newport Beach, CA
+PHONE: (949) 673-9453
+
+NAME: Saigon Fish Grill
+ADDRESS: 10131 Westminster Ave
+Garden Grove, CA
+PHONE: (714) 989-9911
+
+NAME: On The Rocks
+ADDRESS: 2332 West Coast Hwy
+Newport Beach, CA
+PHONE: (949) 673-8444
+
+NAME: Rockin’ Baja Lobster Coastal Cantina
+ADDRESS: 2104 W Oceanfront
+Newport Beach, CA
+PHONE: (949) 723-0606
+
+NAME: Flemings Prime Steakhouse & Wine Bar- Newport Beach
+ADDRESS: 455 Newport Center Dr
+Newport Beach, CA
+PHONE: (949) 720-9633
+
+NAME: Harborside Restaurant and Grand Ballroom
+ADDRESS: 400 Main St
+Newport Beach, CA
+PHONE: (949) 673-4633
+
+NAME: Bluewater Grill
+ADDRESS: 630 Lido Park Dr
+Newport Beach, CA
+PHONE: (949) 675-3474
+
+NAME: The Winery Restaurant & Wine Bar
+ADDRESS: 3131 W Coast Hwy
+Newport Beach, CA
+PHONE: (949) 999-6622
+
+NAME: Pan y Vino
+ADDRESS: 704 E Balboa Blvd
+Newport Beach, CA
+PHONE: (949) 873-5870
+
+NAME: Cafe Gratitude - Newport Beach
+ADDRESS: 1617 Westcliff Dr
+Newport Beach, CA
+PHONE: (949) 386-8100
+
+NAME: The Alley
+ADDRESS: 4501 W Coast Hwy
+Newport Beach, CA
+PHONE: (949) 646-9126
+
+NAME: Waterline
 ADDRESS: 
-850 Avocado Ave
-Newport Beach, CA 92660
-PHONE (949) 718-0188
+Newport Beach, CA
+PHONE: (949) 630-4390
+
+NAME: Great Maple
+ADDRESS: 1133 Newport Ctr Dr
+Newport Beach, CA
+PHONE: (949) 706-8282
+
+NAME: Bear Flag Fish
+ADDRESS: 7972 Pacific Coast Hwy
+Newport Beach, CA
+PHONE: (949) 715-8899
+
+NAME: Hopdoddy Burger Bar
+ADDRESS: 401 Newport Center Dr
+Newport Beach, CA
+PHONE: (949) 640-2337
+
+NAME: The Cannery Restaurant
+ADDRESS: 3010 Lafayette Rd
+Newport Beach, CA
+PHONE: (949) 566-0060
+
+NAME: Crocker’s Abundant Table
+ADDRESS: 211 Marine Ave
+Newport Beach, CA
+PHONE: None
+
+NAME: Modo Mio rustic italian kitchen
+ADDRESS: 7946 E Coast Hwy
+Newport Beach, CA
+PHONE: (949) 497-9770
+
+NAME: 3-Thirty-3 Waterfront
+ADDRESS: 333 Bayside Dr
+Newport Beach, CA
+PHONE: (949) 673-8464
+
+NAME: Da Hawaiian Kitchen Too
+ADDRESS: 2201 W Balboa Blvd
+Newport Beach, CA
+PHONE: (949) 612-8300
+
+NAME: Bayside Restaurant
+ADDRESS: 900 Bayside Dr
+Newport Beach, CA
+PHONE: (949) 721-1222
+
+NAME: Wild Taco
+ADDRESS: 407 31st St
+Newport Beach, CA
+PHONE: (949) 673-9453
+
+NAME: Rusty Pelican
+ADDRESS: 2735 W Coast Hwy
+Newport Beach, CA
+PHONE: (949) 642-3431
 
 NAME: A&O Kitchen+Bar
 ADDRESS: 
-PHONE (949) 630-4285
+Newport Beach, CA
+PHONE: (949) 630-4285
 
 NAME: Driftwood Kitchen
-ADDRESS: 
-619 Sleepy Hollow Ln
-Laguna Beach, CA 92651
-PHONE (949) 715-7700
+ADDRESS: 619 Sleepy Hollow Ln
+Laguna Beach, CA
+PHONE: (949) 715-7700
+
+NAME: Fly ‘N’ Fish Oyster Bar & Grill
+ADDRESS: 2304 W Oceanfront
+Newport Beach, CA
+PHONE: (949) 673-8400
 
 NAME: Bear Flag Fish
+ADDRESS: 3421 Via Lido
+Newport Beach, CA
+PHONE: (949) 673-3474
+
+NAME: Canaletto Ristorante Veneto
+ADDRESS: 545 Newport Center Drive
+Newport Beach, CA
+PHONE: (949) 640-0900
+
+NAME: Oak Grill
+ADDRESS: 690 Newport Center Dr
+Newport Beach, CA
+PHONE: (949) 760-4920
+
+NAME: Gulfstream
+ADDRESS: 850 Avocado Ave
+Newport Beach, CA
+PHONE: (949) 718-0188
+
+NAME: Zinqué
+ADDRESS: 3446 Via Oporto
+Newport Beach, CA
+PHONE: (949) 612-7259
+
+NAME: THE LOT Fashion Island
+ADDRESS: 999 Newport Center Dr
+Newport Beach, CA
+PHONE: (949) 281-0069
+
+NAME: Saigon Fish Grill
+ADDRESS: 10131 Westminster Ave
+Garden Grove, CA
+PHONE: (714) 989-9911
+
+NAME: Great Maple
+ADDRESS: 1133 Newport Ctr Dr
+Newport Beach, CA
+PHONE: (949) 706-8282
+
+NAME: Bear Flag Fish
+ADDRESS: 7972 Pacific Coast Hwy
+Newport Beach, CA
+PHONE: (949) 715-8899
+
+NAME: Hopdoddy Burger Bar
+ADDRESS: 401 Newport Center Dr
+Newport Beach, CA
+PHONE: (949) 640-2337
+
+NAME: The Cannery Restaurant
+ADDRESS: 3010 Lafayette Rd
+Newport Beach, CA
+PHONE: (949) 566-0060
+
+NAME: Crocker’s Abundant Table
+ADDRESS: 211 Marine Ave
+Newport Beach, CA
+PHONE: None
+
+NAME: Modo Mio rustic italian kitchen
+ADDRESS: 7946 E Coast Hwy
+Newport Beach, CA
+PHONE: (949) 497-9770
+
+NAME: 3-Thirty-3 Waterfront
+ADDRESS: 333 Bayside Dr
+Newport Beach, CA
+PHONE: (949) 673-8464
+
+NAME: Da Hawaiian Kitchen Too
+ADDRESS: 2201 W Balboa Blvd
+Newport Beach, CA
+PHONE: (949) 612-8300
+
+NAME: Bayside Restaurant
+ADDRESS: 900 Bayside Dr
+Newport Beach, CA
+PHONE: (949) 721-1222
+
+NAME: Wild Taco
+ADDRESS: 407 31st St
+Newport Beach, CA
+PHONE: (949) 673-9453
+
+NAME: Rusty Pelican
+ADDRESS: 2735 W Coast Hwy
+Newport Beach, CA
+PHONE: (949) 642-3431
+
+NAME: A&O Kitchen+Bar
 ADDRESS: 
-3421 Via Lido
-Newport Beach, CA 92663
-PHONE (949) 673-3474
+Newport Beach, CA
+PHONE: (949) 630-4285
+
+NAME: Driftwood Kitchen
+ADDRESS: 619 Sleepy Hollow Ln
+Laguna Beach, CA
+PHONE: (949) 715-7700
+
+NAME: Fly ‘N’ Fish Oyster Bar & Grill
+ADDRESS: 2304 W Oceanfront
+Newport Beach, CA
+PHONE: (949) 673-8400
+
+NAME: Bear Flag Fish
+ADDRESS: 3421 Via Lido
+Newport Beach, CA
+PHONE: (949) 673-3474
+
+NAME: Canaletto Ristorante Veneto
+ADDRESS: 545 Newport Center Drive
+Newport Beach, CA
+PHONE: (949) 640-0900
+
+NAME: Oak Grill
+ADDRESS: 690 Newport Center Dr
+Newport Beach, CA
+PHONE: (949) 760-4920
+
+NAME: Gulfstream
+ADDRESS: 850 Avocado Ave
+Newport Beach, CA
+PHONE: (949) 718-0188
+
+NAME: Zinqué
+ADDRESS: 3446 Via Oporto
+Newport Beach, CA
+PHONE: (949) 612-7259
+
+NAME: THE LOT Fashion Island
+ADDRESS: 999 Newport Center Dr
+Newport Beach, CA
+PHONE: (949) 281-0069
 
 NAME: Eat Chow
+ADDRESS: 211 62nd St
+Newport Beach, CA
+PHONE: (949) 423-7080
+
+NAME: Habana
+ADDRESS: 2930 Bristol St
+Costa Mesa, CA
+PHONE: (714) 556-0176
+
+NAME: Slapfish
+ADDRESS: 2727 Newport Blvd
+Newport Beach, CA
+PHONE: (949) 723-0034
+
+NAME: Sushi Roku
+ADDRESS: 327 Newport Center Dr
+Newport Beach, CA
+PHONE: (949) 706-3622
+
+NAME: Provenance
+ADDRESS: 2531 Eastbluff Dr
+Newport Beach, CA
+PHONE: (949) 718-0477
+
+NAME: The Beachcomber
+ADDRESS: 15 Crystal Cove
+Newport Coast, CA
+PHONE: (949) 376-6900
+
+NAME: Basilic Restaurant
+ADDRESS: 217 Marine Ave
+Newport Beach, CA
+PHONE: (949) 673-0570
+
+NAME: Juliette Kitchen + Bar
+ADDRESS: 1000 Bristol St N
+Newport Beach, CA
+PHONE: (949) 258-9950
+
+NAME: Sapori Ristorante
+ADDRESS: 1080 Bayside Dr
+Newport Beach, CA
+PHONE: (949) 644-4220
+
+NAME: Crocker’s The Well Dressed Frank
+ADDRESS: 211 Marine Ave
+Newport Beach, CA
+PHONE: (949) 572-9293
+
+NAME: Saigon Fish Grill
+ADDRESS: 10131 Westminster Ave
+Garden Grove, CA
+PHONE: (714) 989-9911
+
+NAME: Rusty Pelican
+ADDRESS: 2735 W Coast Hwy
+Newport Beach, CA
+PHONE: (949) 642-3431
+
+NAME: A&O Kitchen+Bar
 ADDRESS: 
-211 62nd St
-Newport Beach, CA 92663
-PHONE (949) 423-7080
+Newport Beach, CA
+PHONE: (949) 630-4285
+
+NAME: Driftwood Kitchen
+ADDRESS: 619 Sleepy Hollow Ln
+Laguna Beach, CA
+PHONE: (949) 715-7700
+
+NAME: Fly ‘N’ Fish Oyster Bar & Grill
+ADDRESS: 2304 W Oceanfront
+Newport Beach, CA
+PHONE: (949) 673-8400
+
+NAME: Bear Flag Fish
+ADDRESS: 3421 Via Lido
+Newport Beach, CA
+PHONE: (949) 673-3474
+
+NAME: Canaletto Ristorante Veneto
+ADDRESS: 545 Newport Center Drive
+Newport Beach, CA
+PHONE: (949) 640-0900
+
+NAME: Oak Grill
+ADDRESS: 690 Newport Center Dr
+Newport Beach, CA
+PHONE: (949) 760-4920
+
+NAME: Gulfstream
+ADDRESS: 850 Avocado Ave
+Newport Beach, CA
+PHONE: (949) 718-0188
+
+NAME: Zinqué
+ADDRESS: 3446 Via Oporto
+Newport Beach, CA
+PHONE: (949) 612-7259
+
+NAME: THE LOT Fashion Island
+ADDRESS: 999 Newport Center Dr
+Newport Beach, CA
+PHONE: (949) 281-0069
+
+NAME: Eat Chow
+ADDRESS: 211 62nd St
+Newport Beach, CA
+PHONE: (949) 423-7080
+
+NAME: Habana
+ADDRESS: 2930 Bristol St
+Costa Mesa, CA
+PHONE: (714) 556-0176
+
+NAME: Slapfish
+ADDRESS: 2727 Newport Blvd
+Newport Beach, CA
+PHONE: (949) 723-0034
+
+NAME: Sushi Roku
+ADDRESS: 327 Newport Center Dr
+Newport Beach, CA
+PHONE: (949) 706-3622
+
+NAME: Provenance
+ADDRESS: 2531 Eastbluff Dr
+Newport Beach, CA
+PHONE: (949) 718-0477
+
+NAME: The Beachcomber
+ADDRESS: 15 Crystal Cove
+Newport Coast, CA
+PHONE: (949) 376-6900
+
+NAME: Basilic Restaurant
+ADDRESS: 217 Marine Ave
+Newport Beach, CA
+PHONE: (949) 673-0570
+
+NAME: Juliette Kitchen + Bar
+ADDRESS: 1000 Bristol St N
+Newport Beach, CA
+PHONE: (949) 258-9950
+
+NAME: Sapori Ristorante
+ADDRESS: 1080 Bayside Dr
+Newport Beach, CA
+PHONE: (949) 644-4220
+
+NAME: Crocker’s The Well Dressed Frank
+ADDRESS: 211 Marine Ave
+Newport Beach, CA
+PHONE: (949) 572-9293
+
+NAME: Olea - Cellar, Craft, Cook
+ADDRESS: 2001 Westcliff Dr
+Newport Beach, CA
+PHONE: (949) 287-6807
+
+NAME: Xanadu Café
+ADDRESS: 100 W Coast Hwy
+Newport Beach, CA
+PHONE: (949) 873-5101
+
+NAME: Newport Landing Restaurant
+ADDRESS: 503 E Edgewater Ave
+Newport Beach, CA
+PHONE: (949) 675-2373
+
+NAME: San Shi Go
+ADDRESS: 205 Main St
+Newport Beach, CA
+PHONE: (949) 673-3724
+
+NAME: Ten Asian Bistro
+ADDRESS: 4647 MacArthur Blvd
+Newport Beach, CA
+PHONE: (949) 660-1010
+
+NAME: North Italia
+ADDRESS: 2957 Michelson Dr
+Irvine, CA
+PHONE: (949) 629-7060
+
+NAME: Mr G’s Bistro
+ADDRESS: 305 Marine Ave
+Newport Beach, CA
+PHONE: (949) 675-6193
+
+NAME: Rendez Vous
+ADDRESS: 3330 E Coast Hwy
+Newport Beach, CA
+PHONE: (949) 791-8730
+
+NAME: Urban Cup Express
+ADDRESS: 2200 W Oceanfront
+Newport Beach, CA
+PHONE: (949) 612-7180
+
+NAME: Tommy Bahama Restaurant | Bar | Store - Newport Beach
+ADDRESS: 854 Avocado Ave
+Newport Beach, CA
+PHONE: (949) 760-8686
+
+NAME: Saigon Fish Grill
+ADDRESS: 10131 Westminster Ave
+Garden Grove, CA
+PHONE: (714) 989-9911
+
+NAME: Eat Chow
+ADDRESS: 211 62nd St
+Newport Beach, CA
+PHONE: (949) 423-7080
+
+NAME: Habana
+ADDRESS: 2930 Bristol St
+Costa Mesa, CA
+PHONE: (714) 556-0176
+
+NAME: Slapfish
+ADDRESS: 2727 Newport Blvd
+Newport Beach, CA
+PHONE: (949) 723-0034
+
+NAME: Sushi Roku
+ADDRESS: 327 Newport Center Dr
+Newport Beach, CA
+PHONE: (949) 706-3622
+
+NAME: Provenance
+ADDRESS: 2531 Eastbluff Dr
+Newport Beach, CA
+PHONE: (949) 718-0477
+
+NAME: The Beachcomber
+ADDRESS: 15 Crystal Cove
+Newport Coast, CA
+PHONE: (949) 376-6900
+
+NAME: Basilic Restaurant
+ADDRESS: 217 Marine Ave
+Newport Beach, CA
+PHONE: (949) 673-0570
+
+NAME: Juliette Kitchen + Bar
+ADDRESS: 1000 Bristol St N
+Newport Beach, CA
+PHONE: (949) 258-9950
+
+NAME: Sapori Ristorante
+ADDRESS: 1080 Bayside Dr
+Newport Beach, CA
+PHONE: (949) 644-4220
+
+NAME: Crocker’s The Well Dressed Frank
+ADDRESS: 211 Marine Ave
+Newport Beach, CA
+PHONE: (949) 572-9293
+
+NAME: Olea - Cellar, Craft, Cook
+ADDRESS: 2001 Westcliff Dr
+Newport Beach, CA
+PHONE: (949) 287-6807
+
+NAME: Xanadu Café
+ADDRESS: 100 W Coast Hwy
+Newport Beach, CA
+PHONE: (949) 873-5101
+
+NAME: Newport Landing Restaurant
+ADDRESS: 503 E Edgewater Ave
+Newport Beach, CA
+PHONE: (949) 675-2373
+
+NAME: San Shi Go
+ADDRESS: 205 Main St
+Newport Beach, CA
+PHONE: (949) 673-3724
+
+NAME: Ten Asian Bistro
+ADDRESS: 4647 MacArthur Blvd
+Newport Beach, CA
+PHONE: (949) 660-1010
+
+NAME: North Italia
+ADDRESS: 2957 Michelson Dr
+Irvine, CA
+PHONE: (949) 629-7060
+
+NAME: Mr G’s Bistro
+ADDRESS: 305 Marine Ave
+Newport Beach, CA
+PHONE: (949) 675-6193
+
+NAME: Rendez Vous
+ADDRESS: 3330 E Coast Hwy
+Newport Beach, CA
+PHONE: (949) 791-8730
+
+NAME: Urban Cup Express
+ADDRESS: 2200 W Oceanfront
+Newport Beach, CA
+PHONE: (949) 612-7180
+
+NAME: Tommy Bahama Restaurant | Bar | Store - Newport Beach
+ADDRESS: 854 Avocado Ave
+Newport Beach, CA
+PHONE: (949) 760-8686
+
+NAME: Tupelo Junction Cafe
+ADDRESS: 508 29th St
+Newport Beach, CA
+PHONE: (949) 877-0280
+
+NAME: Marché Moderne
+ADDRESS: 7862 Pacific Coast Hwy
+Newport Beach, CA
+PHONE: (714) 434-7900
+
+NAME: Stag Bar + Kitchen
+ADDRESS: 121 Mc Fadden Pl
+Newport Beach, CA
+PHONE: (949) 673-4470
+
+NAME: Pizzeria Mozza
+ADDRESS: 800 W Coast Hwy
+Newport Beach, CA
+PHONE: (949) 945-1126
+
+NAME: Yard House
+ADDRESS: 849 Newport Center Dr
+Newport Beach, CA
+PHONE: (949) 640-9273
+
+NAME: Cucina Alessa
+ADDRESS: 6700 W Coast Hwy
+Newport Beach, CA
+PHONE: (949) 645-2148
+
+NAME: Great Mex
+ADDRESS: 703 E Balboa Blvd
+Newport Beach, CA
+PHONE: (949) 675-0808
+
+NAME: Tower 48 Newport Beach
+ADDRESS: 4525 West Coast Hwy
+Newport Beach, CA
+PHONE: (949) 432-5858
+
+NAME: Lotus Bistro
+ADDRESS: 325 Old Newport Blvd
+Newport Beach, CA
+PHONE: (949) 287-6827
+
+NAME: Eat Chow
+ADDRESS: 1802 Newport Blvd
+Costa Mesa, CA
+PHONE: (949) 650-2469
 
