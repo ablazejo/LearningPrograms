@@ -1,0 +1,186 @@
+NAME: Joe’s Crab Shack
+ADDRESS: 2607 W Pacific Coast Hwy
+Newport Beach, CA
+PHONE: (949) 650-1818
+WEBSITE: Sorry. No website
+
+NAME: Mama D’s Italian Kitchen
+ADDRESS: 3012 Newport Blvd
+Newport Beach, CA
+PHONE: (949) 675-6262
+WEBSITE: mamadsnewport.com
+
+NAME: SOL Mexican Cocina
+ADDRESS: 251 E Coast Hwy
+Newport Beach, CA
+PHONE: (949) 675-9800
+WEBSITE: solcocina.com
+
+NAME: Hook & Anchor
+ADDRESS: 3305 Newport Blvd
+Newport Beach, CA
+PHONE: (949) 423-7169
+WEBSITE: hooknanchor.com
+
+NAME: R+D Kitchen
+ADDRESS: 555 Newport Ctr Dr
+Newport Beach, CA
+PHONE: (949) 219-0555
+WEBSITE: rd-kitchen.com
+
+NAME: Bosscat Kitchen and Libations
+ADDRESS: 4647 MacArthur Blvd
+Newport Beach, CA
+PHONE: (949) 333-0917
+WEBSITE: bosscatkitchen-newport.com
+
+NAME: Sol Grill
+ADDRESS: 110 McFadden Pl
+Newport Beach, CA
+PHONE: (949) 723-4105
+WEBSITE: solgrill.com
+
+NAME: True Food Kitchen
+ADDRESS: 
+Newport Beach, CA
+PHONE: (949) 644-2400
+WEBSITE: truefoodkitchen.com
+
+NAME: The Dock
+ADDRESS: 2816 Lafayette Rd
+Newport Beach, CA
+PHONE: (949) 673-3625
+WEBSITE: dineatthedock.com
+
+NAME: Bayside Restaurant
+ADDRESS: 900 Bayside Dr
+Newport Beach, CA
+PHONE: (949) 721-1222
+WEBSITE: baysiderestaurant.com
+
+NAME: Eddie V’s Prime Seafood
+ADDRESS: 1370 Bison Ave
+Newport Beach, CA
+PHONE: (949) 720-9925
+WEBSITE: Eddiev.com
+
+NAME: The Lighthouse Bayview Café
+ADDRESS: 1600 W Balboa Blvd
+Newport Beach, CA
+PHONE: (949) 933-1001
+WEBSITE: lighthousenb.com
+
+NAME: Mastro’s Ocean Club
+ADDRESS: 8112 E Coast Hwy
+Newport Beach, CA
+PHONE: (949) 376-6990
+WEBSITE: mastrosrestaurants.com
+
+NAME: Farmhouse At Roger’s Gardens
+ADDRESS: 2301 San Joaquin Hills Rd
+Newport Beach, CA
+PHONE: (949) 640-1415
+WEBSITE: farmhouserg.com
+
+NAME: Harborside Restaurant and Grand Ballroom
+ADDRESS: 400 Main St
+Newport Beach, CA
+PHONE: (949) 673-4633
+WEBSITE: harborside-pavilion.com
+
+NAME: Waterline
+ADDRESS: 
+Newport Beach, CA
+PHONE: (949) 630-4390
+WEBSITE: balboabayresort.com/dining
+
+NAME: A Restaurant
+ADDRESS: 3334 W Coast Hwy
+Newport Beach, CA
+PHONE: (949) 650-6505
+WEBSITE: arestaurantnb.com
+
+NAME: On The Rocks
+ADDRESS: 2332 West Coast Hwy
+Newport Beach, CA
+PHONE: (949) 673-8444
+WEBSITE: Sorry. No website
+
+NAME: 3-Thirty-3 Waterfront
+ADDRESS: 333 Bayside Dr
+Newport Beach, CA
+PHONE: (949) 673-8464
+WEBSITE: 3thirty3nb.com
+
+NAME: Moulin
+ADDRESS: 1000 Bristol St N
+Newport Beach, CA
+PHONE: (949) 474-0920
+WEBSITE: moulin.com
+
+NAME: A&O Kitchen+Bar
+ADDRESS: 
+Newport Beach, CA
+PHONE: (949) 630-4285
+WEBSITE: balboabayresort.com/dining
+
+NAME: Great Maple
+ADDRESS: 1133 Newport Ctr Dr
+Newport Beach, CA
+PHONE: (949) 706-8282
+WEBSITE: thegreatmaple.com
+
+NAME: Cafe Gratitude - Newport Beach
+ADDRESS: 1617 Westcliff Dr
+Newport Beach, CA
+PHONE: (949) 386-8100
+WEBSITE: Sorry. No website
+
+NAME: Fig & Olive
+ADDRESS: 151 Newport Center Dr
+Newport Beach, CA
+PHONE: (949) 877-3005
+WEBSITE: figandolive.com
+
+NAME: CUCINA enoteca Newport Beach
+ADDRESS: 951 Newport Center Dr
+Newport Beach, CA
+PHONE: (949) 706-1416
+WEBSITE: urbankitchengroup.com
+
+NAME: Bluewater Grill
+ADDRESS: 630 Lido Park Dr
+Newport Beach, CA
+PHONE: (949) 675-3474
+WEBSITE: bluewatergrill.com
+
+NAME: Saigon Beach Restaurant
+ADDRESS: 2233 W Balboa Blvd
+Newport Beach, CA
+PHONE: (949) 612-8067
+WEBSITE: Sorry. No website
+
+NAME: Red O
+ADDRESS: 143 Newport Center Dr
+Newport Beach, CA
+PHONE: (949) 718-0300
+WEBSITE: redorestaurant.com
+
+NAME: Oak Grill
+ADDRESS: 690 Newport Center Dr
+Newport Beach, CA
+PHONE: (949) 760-4920
+WEBSITE: oakgrillnb.com
+
+NAME: Gulfstream
+ADDRESS: 850 Avocado Ave
+Newport Beach, CA
+PHONE: (949) 718-0188
+WEBSITE: gulfstreamrestaurants.com
+
+NAME: Provenance
+ADDRESS: 2531 Eastbluff Dr
+Newport Beach, CA
+PHONE: (949) 718-0477
+WEBSITE: provenanceoc.com
+
