@@ -40,7 +40,6 @@ while current_page < 1:
             except:
                 phone = None
             print(phone)
-            #additional task START
             html_address = biz.findAll('a', href=True, limit=1)
             for element in html_address:
                 address = element['href']
