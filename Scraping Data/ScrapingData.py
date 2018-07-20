@@ -48,30 +48,26 @@ while current_page < 1:
                 print(new_url)
             yelp_2 = requests.get(new_url)
             yelp_soup2 = BeautifulSoup(yelp_2.text, 'html.parser')
-            page = yelp_soup2.findAll('div', {'class':'mapbox-text'})
-            print(page)
-            print("")
-            print("KONIEC PAGE")
-            print("")
-            #page_address = page.findAll('a', href=True)
-            #for item in page_address:
-            #    print(item)
-            page2 = "OH NIE"
-            #for element in page:
-                #page_address = element.findAll('a', href=True)
-                #for part in page_address:
-                    #page2 = part.findAll(text=True)
-                    #page2 = str(page2)[2:-2]
-                    #print(page2)
-
-            #additional task END
+            page = yelp_soup2.findAll('span', {'class': 'biz-website js-biz-website js-add-url-tagging'})
+            correct=""
+            if page:
+                for item in page:
+                    page_address = item.findAll('a')
+                    print(page_address)
+                    for el in page_address:
+                        correct=el.findAll(text=True)
+                        correct = str(correct)[2:-2]
+                        print(correct)
+            else:
+                correct = "Sorry. No website"
+                print(correct)
             print("")
             page_line = "NAME: {title}\nADDRESS: {address_1}\n{city}\nPHONE: {phone}\nWEBSITE: {website}\n\n".format(
                     title=title,
                     address_1=first_line,
                     city = city,
                     phone = phone,
-                    website = page2
+                    website = correct
                 )
             textfile.write(page_line)
     current_page += 1
