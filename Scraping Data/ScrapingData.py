@@ -2,10 +2,12 @@ import requests
 from bs4 import BeautifulSoup
 
 base_url = 'https://www.yelp.com/search?find_desc=Restaurants&find_loc='
+base_url2 = 'https://www.yelp.com'
 loc = 'Newport+Beach,+CA,+United+States'
 current_page = 0
 
-while current_page < 51:
+
+while current_page < 1:
     print(current_page)
     url = base_url + loc + "&start=" + str(current_page)
     yelp_r = requests.get(url)
@@ -38,12 +40,38 @@ while current_page < 51:
             except:
                 phone = None
             print(phone)
+            #additional task START
+            html_address = biz.findAll('a', href=True, limit=1)
+            for element in html_address:
+                address = element['href']
+                new_url = base_url2 + address
+                print(new_url)
+            yelp_2 = requests.get(new_url)
+            yelp_soup2 = BeautifulSoup(yelp_2.text, 'html.parser')
+            page = yelp_soup2.findAll('div', {'class':'mapbox-text'})
+            print(page)
             print("")
-            page_line = "NAME: {title}\nADDRESS: {address_1}\n{city}\nPHONE: {phone}\n\n".format(
+            print("KONIEC PAGE")
+            print("")
+            #page_address = page.findAll('a', href=True)
+            #for item in page_address:
+            #    print(item)
+            page2 = "OH NIE"
+            #for element in page:
+                #page_address = element.findAll('a', href=True)
+                #for part in page_address:
+                    #page2 = part.findAll(text=True)
+                    #page2 = str(page2)[2:-2]
+                    #print(page2)
+
+            #additional task END
+            print("")
+            page_line = "NAME: {title}\nADDRESS: {address_1}\n{city}\nPHONE: {phone}\nWEBSITE: {website}\n\n".format(
                     title=title,
                     address_1=first_line,
                     city = city,
-                    phone = phone
+                    phone = phone,
+                    website = page2
                 )
             textfile.write(page_line)
-    current_page += 10
+    current_page += 1
