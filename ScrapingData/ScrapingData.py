@@ -70,3 +70,4 @@ while current_page < 1:
                 )
             textfile.write(page_line)
     current_page += 1
+
