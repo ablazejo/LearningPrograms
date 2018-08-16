@@ -11,7 +11,7 @@ from tempfile import NamedTemporaryFile
 host = "smtp.gmail.com"
 port = 587
 username = "pythoncodeine@gmail.com"
-password = "pythoncodeine1"
+password = "********"
 
 path = "my_data.csv"
 file_item_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), path)
