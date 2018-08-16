@@ -81,10 +81,10 @@ Blazej Aksiutin - Junior Python Developer"""
 
 Object = MessageUser()
 Object.add_user("Panie Bartku", "nie masz czasu", "pythoncodeine@gmail.com")
-Object.add_user("CEO CATBOTS", "nie lubisz herbaty", "pythoncodeine@gmail.com")
-Object.add_user("Zlotowlosy", "jebac Blazeja", "pythoncodeine@gmail.com")
-Object.add_user("Belgijski Polawiaczu Krewetek ", "pierdole nie jade", "pythoncodeine@gmail.com")
-Object.add_user("Senior CATBOTS Developerze", "wypiles dzisiaj tyle herbaty, ze nie dy rydy wincej", "pythoncodeine@gmail.com")
+Object.add_user("Wojtek", "nie lubisz herbaty", "pythoncodeine@gmail.com")
+Object.add_user("Zlotowlosy", "Jestes zajety", "pythoncodeine@gmail.com")
+Object.add_user("Belgijski Polawiaczu Krewetek ", "Nie chce mi sie", "pythoncodeine@gmail.com")
+Object.add_user("Developerze", "wypiles dzisiaj tyle herbaty, ze nie dy rydy wincej", "pythoncodeine@gmail.com")
 Object.send_mail()
 
 
