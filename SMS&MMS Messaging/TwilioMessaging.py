@@ -2,11 +2,11 @@ import requests
 
 #DATA
 
-username = 'AC8144b96f3916a7458e23f56188ca451c'
-password = 'e236a93435f2d38672d0a9aa67770d94'
+username = ''
+password = ''
 
-number_to_text = '+48790275954'
-twilio_number = '+48732230556'
+number_to_text = ''
+twilio_number = ''
 
 message_body = "Hi there, this is my first message from Twilio!"
 
