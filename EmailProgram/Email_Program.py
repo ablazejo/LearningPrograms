@@ -6,7 +6,7 @@ from email.mime.text import MIMEText
 host = "smtp.gmail.com"
 port = 587
 username = "pythoncodeine@gmail.com"
-password = "pythoncodeine1"
+password = "********"
 
 class MessageUser():
     detale = []
