@@ -2,7 +2,7 @@ import requests
 
 def do_search(term =None, location=None):
     url = 'https://api.yelp.com/v3/businesses/search'
-    headers = {'Authorization': 'Bearer vjtB_7vK2mpVsUqheObKh7XXEvk3bOspArG-lxIKfExvPKKL7g_6KKmbKJ8fNBZ8aD8bniWUACB4IVBAyvgiYTsHePvwywVmzbImB6VAsvM2iN9YxsvRwTdildtuW3Yx'}
+    headers = {'Authorization': 'Bearer ****************************************************************'}
     params = {
         "term" : term,
         "location" : location
