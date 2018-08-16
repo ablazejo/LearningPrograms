@@ -19,7 +19,7 @@ Przyjezdzasz do mnie na herbate czy moze {amount}?
 Jakbyś zapomniał dzisiaj jest: {date}.
 
 Pozdrawiam,
-Blazej Aksiutin - Junior Python Developer"""
+Blazej - Junior Python Developer"""
     def add_user(self, name, amount, email=None):
         today = datetime.date.today()
         date = "{today.day}/{today.month}/{today.year}".format(today=today)
