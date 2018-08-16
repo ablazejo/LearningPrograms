@@ -2,7 +2,7 @@ import requests
 import json
 from bs4 import BeautifulSoup
 
-url = 'https://www.instagram.com/p/BVFkvmChgGx/?taken-by=bdolega'
+url = 'https://www.instagram.com/p/Bl-58rSFKHF/?hl=pl&taken-by=kimkardashian'
 nickname = ''
 
 insta_req = requests.get(url)
