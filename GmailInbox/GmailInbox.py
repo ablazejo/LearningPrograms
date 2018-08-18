@@ -5,7 +5,7 @@ import os
 import mimetypes
 
 username = 'pythoncodeine@gmail.com'
-password = 'xxxxxxxxx'
+password = 'pythoncodeine1'
 
 mail = imaplib.IMAP4_SSL("imap.gmail.com")
 mail.login(username, password)
@@ -44,6 +44,22 @@ for element in inbox_item_list:
         if part.get_content_maintype() == "multipart":
             continue
         filename = part.get_filename()
-        print(filename)
         content_type = part.get_content_type()
-        print(content_type)
+        if not filename:
+            ext = mimetypes.guess_extension(content_type)
+            if not ext:
+                ext = '.bin'
+            if 'text' in content_type:
+                ext = '.txt'
+            elif 'html' in content_type:
+                ext = '.html'
+            filename = 'msg-part-%08d%s' %(counter, ext)
+        save_path = os.path.join(os.getcwd(), "Emails", date_, subject_)
+        if not os.path.exists(save_path):
+            os.makedirs(save_path)
+        with open(os.path.join(save_path, filename), 'wb') as fp:
+            fp.write(part.get_payload(decode=True))
+        counter += 1
+
+
+
