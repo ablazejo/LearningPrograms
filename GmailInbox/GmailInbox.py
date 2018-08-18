@@ -5,7 +5,7 @@ import os
 import mimetypes
 
 username = 'pythoncodeine@gmail.com'
-password = 'pythoncodeine1'
+password = '************'
 
 mail = imaplib.IMAP4_SSL("imap.gmail.com")
 mail.login(username, password)
