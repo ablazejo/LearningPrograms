@@ -16,7 +16,7 @@ result, data = mail.uid('search', None, 'All')
 inbox_item_list = data[0].split()
 print(inbox_item_list)
 
-# ~WAY TO FIND ONE ELEMENT~
+# ~ WAY TO FIND ONE ELEMENT ~
 
 # most_recent = inbox_item_list[-1]
 # oldest = inbox_item_list[0]
@@ -29,7 +29,7 @@ print(inbox_item_list)
 # payload = email_message.get_payload()
 # print(payload)
 
-# ~WAY TO FIND ALL ELEMENTS~
+# ~ WAY TO FIND ALL ELEMENTS ~
 print("")
 for element in inbox_item_list:
     result2, email_data = mail.uid('fetch', element, '(RFC822)')
